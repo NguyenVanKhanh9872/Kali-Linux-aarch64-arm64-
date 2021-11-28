@@ -5,6 +5,7 @@ Kali-Linux for arm64 Android Device using Termux
 Termux APK: https://f-droid.org/repo/com.termux_117.apk
 
 # Tutorial:
+
 Tutorial Install: https://tinyurl.com/kalilinuxaarch64khanhnguyen
 
 # License:
